@@ -1,0 +1,19 @@
+{
+  "name": "response-factory",
+  "version": "1.0.0",
+  "description": "This is repo to supply template response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansi99/response-factory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vansi99/response-factory/issues"
+  },
+  "homepage": "https://github.com/vansi99/response-factory#readme"
+}
