@@ -1,4 +1,4 @@
-exports.success = ({data = ""}) => {
+exports.success = ({data}) => {
     if (!data) {
         throw new Error("missing data")
     }
