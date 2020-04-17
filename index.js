@@ -20,3 +20,9 @@ exports.authenticationFail = ({reason = "Unauthorize"}) => ({
     status: 402,
     reason
 });
+
+exports.emailNotConfirmed = ({reason}) => ({
+    success: false,
+    status: 403,
+    reason
+});
